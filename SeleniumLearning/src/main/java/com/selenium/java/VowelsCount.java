@@ -14,7 +14,7 @@ public class VowelsCount {
 		System.out.println(counta); 
 		char vowels;
 		for(int i = 0;i<str.length();i++)
-			
+			//added
 		{
 			vowels = str.charAt(i);
 			
